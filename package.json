@@ -1,0 +1,24 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor-community/privacy-screen": "^4.2.0",
+    "@capacitor/android": "^5.4.2",
+    "@capacitor/core": "^5.4.2",
+    "@capacitor/share": "^5.0.6",
+    "vite": "^4.4.11"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^5.4.2",
+    "vite": "^4.4.11"
+  }
+}
