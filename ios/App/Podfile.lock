@@ -1,0 +1,34 @@
+PODS:
+  - Capacitor (5.4.2):
+    - CapacitorCordova
+  - CapacitorCommunityPrivacyScreen (4.2.0):
+    - Capacitor
+  - CapacitorCordova (5.4.2)
+  - CapacitorShare (5.0.6):
+    - Capacitor
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCommunityPrivacyScreen (from `../../node_modules/@capacitor-community/privacy-screen`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorShare (from `../../node_modules/@capacitor/share`)"
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCommunityPrivacyScreen:
+    :path: "../../node_modules/@capacitor-community/privacy-screen"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorShare:
+    :path: "../../node_modules/@capacitor/share"
+
+SPEC CHECKSUMS:
+  Capacitor: 8a9db42d105f55843cd8ed2a3cb54e2b78e7f102
+  CapacitorCommunityPrivacyScreen: f9d98275ba27167f88fb50dfd50ebc563dad1f8b
+  CapacitorCordova: cfcc06b698481da655415985eeb2b8da363f8451
+  CapacitorShare: cd41743331cb71d217c029de54b681cbd91e0fcc
+
+PODFILE CHECKSUM: d876f2ee92579636e35161cd25b57a33b4b30eaf
+
+COCOAPODS: 1.12.1
